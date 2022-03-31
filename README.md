@@ -1,5 +1,6 @@
 THE USB RUBBER FUCKY
 cuz it makes the computer have a fucky wucky
+prerequisites: minimodem, strings
 this is a series of shell scripts and some hardware to turn a cassette player into a badUSB
 i started out with a raspberry pi pico, trying to figure out how to take the analog input
 of a cassette tape and turn it into ducky script. with the help of the philly2600 group 
